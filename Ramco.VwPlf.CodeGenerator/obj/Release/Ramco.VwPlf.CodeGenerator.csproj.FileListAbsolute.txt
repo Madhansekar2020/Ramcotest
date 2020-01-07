@@ -1,0 +1,403 @@
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.pdb
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+E:\Conversion\Ramco.VwPlf.CodeGenerator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\ADODB.dll
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.pdb
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+E:\projects\DeveloperconsoleWPF\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.State.pdb
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+D:\Projects\.Net Code Generator\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.dll
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.pdb
+D:\Projects\DotNet_Code_Generators\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.pdb
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\ADODB.dll
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.pdb
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.pdb
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+D:\wfolder\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojResolveAssemblyReference.cache
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Desktopcodegen.exe
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Generator.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.pdb
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.pdb
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+E:\Workings\Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\CUtil.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\DeviceGenerator20.exe
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Engine.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Framework.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Tasks.Core.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.Build.Utilities.Core.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Newtonsoft.Json.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Callout.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.Logicalextension.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.AppCallout.Interface.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.Instrumentation.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ramco.WebCallout.Interface.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Ui.Ramco.Utility.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.mHub.MobileLayoutGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Global.Interfaces.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.MobileLayoutGenerator20.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.UiGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.XamlGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.DataAccess.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.AttributedModel.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Hosting.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.Runtime.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Composition.TypedParts.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Configuration.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.DataSetExtensions.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Data.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Xml.Linq.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VirtualWorksRT.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\VWHelper.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VW.RT.State.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.pdb
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.CodeGenerator.Callout.dll.config
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.Generator.pdb
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.pdb
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlf.VwState.Generator.dll.config
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Collections.Immutable.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\System.Reflection.Metadata.xml
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Plf.Itk.Ramco.ComponentLevel.netmodule
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csprojAssemblyReference.cache
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csproj.CoreCompileInputs.cache
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.csproj.CopyComplete
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\obj\Release\Ramco.VwPlf.CodeGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Glance.UiGenerator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.Plf.Layout.Generator.dll
+E:\Workings\__Ramco.VwPlf.Developerconsole\Ramco.VwPlf.CodeGenerator\Bin\Release\Ramco.VwPlatform.Api.Schema.dll
